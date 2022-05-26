@@ -1,4 +1,2 @@
 #!/bin/bash \n
-pwd \n
-
-
+ls \n
