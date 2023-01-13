@@ -1,2 +1,1 @@
-alias [-p] [name="value"]
-:creates  an alias
+This is a task on shell, init files,variables and expansions

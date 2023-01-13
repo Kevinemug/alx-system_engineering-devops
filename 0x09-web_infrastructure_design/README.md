@@ -1,3 +1,6 @@
-### Web Infrastructure design
+# 0x09. Web infrastructure design
 
-The files contain links to design images hosted on the image hosting service; imgur.
+## Description
+
+This project contains links to diagrams representing different web infrastructures.
+Its goal is to understand, on a very high-level, how web infrastructures are organized and what are their components.
