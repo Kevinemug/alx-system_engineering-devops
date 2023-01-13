@@ -24,7 +24,7 @@ The specific list of projects contained follows:
 
 ## Author :black_nib:
 
-* __Tolulope Fakunle__ <[Tolulope05](https://github.com/Tolulope05)>
+* __MUGISHA KEVINE_ https://github.com/Kevinemug
 
 ## Acknowledgements :pray:
 
